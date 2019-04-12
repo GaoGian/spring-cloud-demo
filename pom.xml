@@ -16,6 +16,8 @@
   <modules>
     <module>boot-parent</module>
     <module>eureka-demo</module>
+    <module>eureka-client</module>
+    <module>eureka-client2</module>
   </modules>
 
   <build>
