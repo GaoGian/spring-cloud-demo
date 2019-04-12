@@ -11,6 +11,7 @@
 	<groupId>com.gian.test</groupId>
 	<artifactId>boot-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>boot-parent</name>
 	<description>Demo project for Spring Boot</description>
 
